@@ -1,5 +1,5 @@
-# 📦 microservices-k8s-demo  
-### Multi-Service Docker & Kubernetes Deployment Example
+# 📦 Docker-k8s-Orchestration  
+### Multi-Service Docker & Kubernetes Deployment
 
 ---
 
